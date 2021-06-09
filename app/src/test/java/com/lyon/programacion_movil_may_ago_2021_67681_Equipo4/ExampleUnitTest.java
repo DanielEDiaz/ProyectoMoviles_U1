@@ -1,4 +1,4 @@
-package com.lyon.proyectoprueba;
+package com.lyon.programacion_movil_may_ago_2021_67681_Equipo4;
 
 import org.junit.Test;
 
